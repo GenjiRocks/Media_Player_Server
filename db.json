@@ -21,34 +21,74 @@
   ],
   "category": [
     {
-      "CategoryName": "asdsad",
-      "allvideo": [],
+      "CategoryName": "English",
+      "allvideo": [
+        {
+          "caption": "Avatar",
+          "Image": "https://cdn.britannica.com/14/135414-050-D4323070/Sam-Worthington-Avatar-character-Jake-Sully-Neytiri.jpg",
+          "url": "https://www.youtube.com/embed/d9MyW72ELq0",
+          "id": 1
+        },
+        {
+          "caption": "Oppenheimer",
+          "Image": "https://m.media-amazon.com/images/I/61ln1IWAiwL.jpg",
+          "url": "https://www.youtube.com/embed/uYPbbksJxIg",
+          "id": 3
+        },
+        {
+          "data": {
+            "caption": "Oppenheimer",
+            "Image": "https://m.media-amazon.com/images/I/61ln1IWAiwL.jpg",
+            "url": "https://www.youtube.com/embed/uYPbbksJxIg",
+            "id": 3
+          },
+          "status": 200,
+          "statusText": "OK",
+          "headers": {
+            "cache-control": "no-cache",
+            "content-length": "161",
+            "content-type": "application/json; charset=utf-8",
+            "expires": "-1",
+            "pragma": "no-cache"
+          },
+          "config": {
+            "transitional": {
+              "silentJSONParsing": true,
+              "forcedJSONParsing": true,
+              "clarifyTimeoutError": false
+            },
+            "adapter": [
+              "xhr",
+              "http",
+              "fetch"
+            ],
+            "transformRequest": [
+              null
+            ],
+            "transformResponse": [
+              null
+            ],
+            "timeout": 0,
+            "xsrfCookieName": "XSRF-TOKEN",
+            "xsrfHeaderName": "X-XSRF-TOKEN",
+            "maxContentLength": -1,
+            "maxBodyLength": -1,
+            "env": {},
+            "headers": {
+              "Accept": "application/json, text/plain, */*",
+              "Content-Type": "application/json"
+            },
+            "method": "get",
+            "url": "http://localhost:3000/videos/3",
+            "data": "\"\""
+          },
+          "request": {}
+        }
+      ],
       "id": 1
-    },
-    {
-      "CategoryName": "asdsda",
-      "allvideo": [],
-      "id": 2
-    },
-    {
-      "CategoryName": "asdasd",
-      "allvideo": [],
-      "id": 3
     }
   ],
   "history": [
-    {
-      "caption": "Avatar",
-      "url": "https://www.youtube.com/embed/d9MyW72ELq0",
-      "timestamp": "20/06/2024, 10:57:07",
-      "id": 1
-    },
-    {
-      "caption": "Kalki 2898",
-      "url": "https://www.youtube.com/embed/kQDd1AhGIHk",
-      "timestamp": "20/06/2024, 10:57:08",
-      "id": 2
-    },
     {
       "caption": "Oppenheimer",
       "url": "https://www.youtube.com/embed/uYPbbksJxIg",
