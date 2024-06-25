@@ -34,58 +34,21 @@
           "Image": "https://m.media-amazon.com/images/I/61ln1IWAiwL.jpg",
           "url": "https://www.youtube.com/embed/uYPbbksJxIg",
           "id": 3
-        },
-        {
-          "data": {
-            "caption": "Oppenheimer",
-            "Image": "https://m.media-amazon.com/images/I/61ln1IWAiwL.jpg",
-            "url": "https://www.youtube.com/embed/uYPbbksJxIg",
-            "id": 3
-          },
-          "status": 200,
-          "statusText": "OK",
-          "headers": {
-            "cache-control": "no-cache",
-            "content-length": "161",
-            "content-type": "application/json; charset=utf-8",
-            "expires": "-1",
-            "pragma": "no-cache"
-          },
-          "config": {
-            "transitional": {
-              "silentJSONParsing": true,
-              "forcedJSONParsing": true,
-              "clarifyTimeoutError": false
-            },
-            "adapter": [
-              "xhr",
-              "http",
-              "fetch"
-            ],
-            "transformRequest": [
-              null
-            ],
-            "transformResponse": [
-              null
-            ],
-            "timeout": 0,
-            "xsrfCookieName": "XSRF-TOKEN",
-            "xsrfHeaderName": "X-XSRF-TOKEN",
-            "maxContentLength": -1,
-            "maxBodyLength": -1,
-            "env": {},
-            "headers": {
-              "Accept": "application/json, text/plain, */*",
-              "Content-Type": "application/json"
-            },
-            "method": "get",
-            "url": "http://localhost:3000/videos/3",
-            "data": "\"\""
-          },
-          "request": {}
         }
       ],
       "id": 1
+    },
+    {
+      "CategoryName": "Tamil",
+      "allvideo": [
+        {
+          "caption": "Oppenheimer",
+          "Image": "https://m.media-amazon.com/images/I/61ln1IWAiwL.jpg",
+          "url": "https://www.youtube.com/embed/uYPbbksJxIg",
+          "id": 3
+        }
+      ],
+      "id": 2
     }
   ],
   "history": [
