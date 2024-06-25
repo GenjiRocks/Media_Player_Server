@@ -22,32 +22,12 @@
   "category": [
     {
       "CategoryName": "English",
-      "allvideo": [
-        {
-          "caption": "Avatar",
-          "Image": "https://cdn.britannica.com/14/135414-050-D4323070/Sam-Worthington-Avatar-character-Jake-Sully-Neytiri.jpg",
-          "url": "https://www.youtube.com/embed/d9MyW72ELq0",
-          "id": 1
-        },
-        {
-          "caption": "Oppenheimer",
-          "Image": "https://m.media-amazon.com/images/I/61ln1IWAiwL.jpg",
-          "url": "https://www.youtube.com/embed/uYPbbksJxIg",
-          "id": 3
-        }
-      ],
+      "allvideo": [],
       "id": 1
     },
     {
       "CategoryName": "Tamil",
-      "allvideo": [
-        {
-          "caption": "Oppenheimer",
-          "Image": "https://m.media-amazon.com/images/I/61ln1IWAiwL.jpg",
-          "url": "https://www.youtube.com/embed/uYPbbksJxIg",
-          "id": 3
-        }
-      ],
+      "allvideo": [],
       "id": 2
     }
   ],
